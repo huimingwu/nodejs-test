@@ -5,6 +5,6 @@
  - Nodejs
  - JavaScript
 
- ## 具体项目列表
+ ## 项目列表
  - HTTP服务器的创建 >> create-web-server
  - 简易路由功能实现 >> easy-route-module
