@@ -8,3 +8,4 @@
  ## 项目列表
  - HTTP服务器的创建 >> create-web-server
  - 简易路由功能实现 >> easy-route-module
+ - Express+mysql的简单实用 >> easy-express-demo
